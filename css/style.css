@@ -304,9 +304,10 @@ header {
     header {
       padding: 2em 0; } }
   header .colorlib-navbar-brand {
-    font-family: "Karla", Arial, sans-serif;
+    font-family: "Playfair Display", Georgia, serif;
+    font-size: 30px;
     float: left;
-    
+    color : black;     
 }
     /*header .colorlib-navbar-brand .colorlib-logo {
       font-size: 20px;
@@ -1319,8 +1320,8 @@ input[type="text"] {
 
 .sss {
   font-family: "Playfair Display", Georgia, serif;
-  font-size: 24px;
-  text-align : right;
-   color : black;
+  font-size : 24px;
+  float :  right;
+  color : black;
   position : absolute;
 }
