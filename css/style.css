@@ -304,8 +304,10 @@ header {
     header {
       padding: 2em 0; } }
   header .colorlib-navbar-brand {
-    float: left; }
-    header .colorlib-navbar-brand .colorlib-logo {
+    float: left;
+    
+}
+    /*header .colorlib-navbar-brand .colorlib-logo {
       font-size: 20px;
       text-transform: uppercase;
       color: #000;
@@ -325,7 +327,7 @@ header {
         text-decoration: none !important; }
       header .colorlib-navbar-brand .colorlib-logo:active, header .colorlib-navbar-brand .colorlib-logo:focus {
         outline: none;
-        text-decoration: none; }
+        text-decoration: none; }*/
 
 #colorlib-services,
 #colorlib-contact,
