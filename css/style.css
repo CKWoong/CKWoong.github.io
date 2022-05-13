@@ -1314,8 +1314,8 @@ input[type="text"] {
 .js .animate-box {
   opacity: 0; }
 
-.bar {
-   color : yellow;
+.sss {
+   color : red;
    text-align : right;
   position : absolute;
 }
