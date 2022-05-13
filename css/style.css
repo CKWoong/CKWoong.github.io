@@ -1319,7 +1319,8 @@ input[type="text"] {
 
 .sss {
   font-family: "Playfair Display", Georgia, serif;
+  font-size: 24px;
   text-align : right;
    color : black;
-  
+  position : absolute;
 }
