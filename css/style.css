@@ -1319,7 +1319,7 @@ input[type="text"] {
 
 .sss {
   font-family: "Karla", Arial, sans-serif;
-  float: right;
-   color : red;
+  text-align : right;
+   color : black;
   
 }
