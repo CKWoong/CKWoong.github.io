@@ -1318,10 +1318,17 @@ input[type="text"] {
 .js .animate-box {
   opacity: 0; }
 
-.sss {
+.sss .h1 {
+  display: inline-block;
   font-family: "Playfair Display", Georgia, serif;
-  font-size : 24px;
-  float :  right;
+  font-size : 28px;  
+  color : black;
+  
+}
+.sss .nav {
+  display: inline-block;
+  font-family: "Playfair Display", Georgia, serif;
+  font-size : 24px;  
   color : black;
   
 }
