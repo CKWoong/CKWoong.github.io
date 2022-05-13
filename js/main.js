@@ -25,9 +25,9 @@
 
 	};
 
-	var burgerMenu = function() {
+	//var burgerMenu = function() {
 
-		$('.js-colorlib-nav-toggle').on('click', function(event) {
+	/*	$('.js-colorlib-nav-toggle').on('click', function(event) {
 			event.preventDefault();
 			var $this = $(this);
 			if( $('body').hasClass('menu-show') ) {
@@ -40,7 +40,7 @@
 				}, 900);
 			}
 		})
-	};
+	};*/
 
 	// Animations
 
