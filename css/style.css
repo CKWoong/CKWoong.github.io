@@ -304,6 +304,7 @@ header {
     header {
       padding: 2em 0; } }
   header .colorlib-navbar-brand {
+    font-family: "Karla", Arial, sans-serif;
     float: left;
     
 }
@@ -1317,6 +1318,7 @@ input[type="text"] {
   opacity: 0; }
 
 .sss {
+  font-family: "Karla", Arial, sans-serif;
   float: right;
    color : red;
   
